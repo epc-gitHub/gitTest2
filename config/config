@@ -1,0 +1,13 @@
+[general]
+pvss_path = "C:/Siemens/Automation/WinCC_OA/3.17"
+proj_path = "//winccoadev/D/gitTest"
+proj_path = "D:/gitTest_Bobz"
+proj_version = "3.17"
+langs = "en_US.utf8"
+
+
+data = "winccoadev"
+event = "winccoadev"
+[ui]
+versionControl = "git"
+
